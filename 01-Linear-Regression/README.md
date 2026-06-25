@@ -1,4 +1,4 @@
-# 01-Linear Regression
+# 01-Linear-Regression
 
 - Start Date: 25-06-2026
 - End Date:
