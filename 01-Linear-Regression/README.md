@@ -7,3 +7,6 @@
 
 ## Problem Statement Chosen:
 <img width="850" height="400" alt="image" src="https://github.com/user-attachments/assets/ec319f5d-b965-4daa-a66a-b51ddbb26603" />
+
+## Solution
+Firstly, as the model cannot understand Male or Female, that particular column is transformed as Gender_Male and is 1 if Male Gender and 0 if female. The given data of 10 rows has been split into 80:20 train & test sets and then the independent variables Height, Age, Gender_Male are given to X and output variable weight is given to y for training. The final RMSE, MAE, R^2 Scores are also been calculated.
